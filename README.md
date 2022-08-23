@@ -6,7 +6,7 @@
 2. 단어 사이에 연결은 \_(언더바)로 연결한다.
 3. `포맷_역할_상세_옵션` 형식으로 이름을 생성하고 세부 규칙이 필요할 수 있고 생략도 가능하다.
 
-ex) `icon_twitter_mini.svg`, `image_dashbord_wallet.image`
+ex) `icon_twitter_mini.svg`, `image_dashbord_wallet.png`
 
 - 포맷: `icon` : svg 이미지, `image`: png 이미지.
 - 역할: 주요 역할
